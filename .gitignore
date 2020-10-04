@@ -3,4 +3,5 @@ venv/
 **/media/
 **/*.pyc
 *.sqlite3
+**/private_config.py
 
